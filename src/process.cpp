@@ -300,6 +300,7 @@ void Compute(ofstream& of, Model& mesh, Params& params)
 
     SaveVRML(wrlName, parts, params);
     SaveOBJ(objName, parts, params);
+    SaveOBJS(objName, "convex_piece_", parts, params);
 
     of.close();
 }
