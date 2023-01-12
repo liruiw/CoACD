@@ -10,7 +10,7 @@ Approximate convex decomposition enables efficient geometry processing algorithm
 ### (1) Clone the code
 
 ```
-git clone --recurse-submodules https://github.com/SarahWeiii/CoACD.git
+git clone --recurse-submodules https://github.com/liruiw/CoACD.git
 ```
 
 ### (2) Compile
